@@ -5,4 +5,4 @@
 
 🤔 Is this short about me enough???
 
-⚡ Fun fact: Bugs don't die!
+⚡ Fun fact: Bugs don't die, they respawn!
