@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Dren 👋
 
-<!--
-**drenhaziri/drenhaziri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on something secret 🤔???
-- ⚡ Fun fact: Bugs don't die!
--->
+🔭 Currently working on something secret 
+🤔 Is this short about me enough???
+⚡ Fun fact: Bugs don't die!
