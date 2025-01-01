@@ -1,7 +1,7 @@
 ### Hi there, I'm Dren 👋
 
 
-🔭 Currently working on something secret
+🔭 Currently watching the industry!!!
 
 🤔 Is this short about me enough???
 
