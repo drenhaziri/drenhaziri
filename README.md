@@ -1,8 +1,6 @@
 ### Hi there, I'm Dren 👋
 
 
-🔭 Currently watching the industry!!!
-
-🤔 Is this short about me enough???
+🤔 What's the best desc for me???
 
 ⚡ Fun fact: Bugs don't die, they respawn!
